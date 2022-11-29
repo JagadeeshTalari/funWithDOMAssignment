@@ -1,6 +1,6 @@
 # FunWith DOM Assignment
 
-![FunWithDOM](.\questionPics\thumbnail.png)
+![FunWithDOM](./questionPics/thumbnail.png)
 
 >This file consists of my answers for the FunWith DOM Assignment.
 
